@@ -1,5 +1,4 @@
 # -if else.C
-#练习
 int main()
 {
     int grade;
